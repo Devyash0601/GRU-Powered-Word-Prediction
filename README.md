@@ -2,6 +2,7 @@
 Welcome to Next Word Prediction, a deep learning project that leverages Gated Recurrent Units (GRUs) and Early Stopping to generate Shakespearean text. Trained on Shakespeare's Hamlet, this model predicts the next word in a sequence with remarkable accuracy. A Streamlit-powered web app is included for an interactive experience, making this project both technically robust and user-friendly.
 
 This repository contains a structured pipeline from data preprocessing, training, and model saving to real-time predictions via an intuitive web UI.
+Link to the Streamlit app : https://gru-powered-word-prediction-3rs82ddji4ib6xcappc2fb8.streamlit.app/
 
 # 🔥 Why This Project Stands Out
 ✅ State-of-the-Art GRU Model – Designed for efficient sequence prediction.
